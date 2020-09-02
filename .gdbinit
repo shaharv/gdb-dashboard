@@ -2280,3 +2280,12 @@ python Dashboard.start()
 # Local Variables:
 # mode: python
 # End:
+
+dashboard source -style height 20
+dashboard assembly
+dashboard expressions
+dashboard history
+dashboard memory
+dashboard registers
+dashboard threads
+dashboard variables
